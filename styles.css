@@ -31,7 +31,7 @@ body {
 
 /* =============== HEADER =============== */
 .topo {
-  background: #03f8f8;                /* Cor de fundo do topo (azul-acinzentado escuro) */
+  background: #047474;                /* Cor de fundo do topo (azul-acinzentado escuro) */
   color: #ffffff;                     /* Texto do topo em branco */
   padding: 16px;                      /* Respiro interno para não “grudar” nas bordas */
   text-align: center;                 /* Centraliza tudo dentro do header (título e menu) */
